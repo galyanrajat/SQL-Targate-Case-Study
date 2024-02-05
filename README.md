@@ -1,1 +1,2 @@
-# SQL-Targate-Case-Study
+# SQL-Targate-Case-Studygit 
+Author-Rajat Sharma
